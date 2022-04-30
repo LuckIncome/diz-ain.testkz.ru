@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /review
+Disallow: /contacts
+Disallow: /projects*?page=*
+Disallow: /projects/zhilye-pomesheniya*?page=*
+Disallow: /projects/kommercheskie-pomesheniya*?page=*
+Disallow: /post.php?post_id=4/
+Disallow: /post.php?post_id=3/
+Disallow: /post.php?post_id=6/
+Disallow: /post.php?post_id=8/
+Disallow: /post.php?post_id=7/
+Disallow: /post.php?post_id=0/
+Disallow: /post.php?post_id=5/
+Disallow: /post.php?post_id=1/
+Disallow: /post.php?post_id=2/
+
+Sitemap: https://diz-ain.kz/sitemap.xml
